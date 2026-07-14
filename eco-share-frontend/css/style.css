@@ -1,0 +1,26 @@
+body {
+    background: #f1f8f4;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+
+.login-box {
+
+    background: white;
+
+    width: 400px;
+
+    padding: 30px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+
+}
+
+
+a {
+    text-decoration: none;
+}
